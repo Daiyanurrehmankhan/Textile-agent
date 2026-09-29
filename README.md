@@ -456,5 +456,3 @@ Changes needed for a real deployment:
 - [ ] CI workflow (tool tests on every push; live tests gated on a secret)
 - [ ] Lightweight web UI over `scripts/run_agent_demo.py`
 - [ ] Batch mode: scan all orders and materials and rank the ones worth investigating
-#   T e x t i l e - a g e n t  
- 
